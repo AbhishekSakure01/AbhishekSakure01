@@ -1,5 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently building full-stack projects and consistently working on improving my DSA skills  <br><br>🤝 I’m open to collaborating on React projects, open source, or anything that solves real problems  <br><br>🆘 I’m working on getting better at advanced DSA and understanding how scalable systems are built  <br><br>🌱 Right now I’m focused on DSA, React, Node.js, and building projects that actually matter  <br><br>💬 Ask me about web development, GitHub, or how I approach learning and building projects  <br><br>⚡ Fun fact I don’t just learn concepts — I turn them into real projects to make them stick  
+🔭 I’m currently building full-stack projects and consistently improving my DSA skills <br><br>
+
+🤝 I’m open to collaborating on React projects, open-source contributions, or anything that solves real problems <br><br>
+
+🆘 I’m working on improving my understanding of advanced DSA and how scalable systems are built <br><br>
+
+🌱 Right now, I’m focused on DSA, React, Node.js, and building projects that actually matter <br><br>
+
+💬 Ask me about web development, GitHub, or how I approach learning and building projects <br><br>
+
+⚡ Fun fact: I don’t just learn concepts—I turn them into real projects to make them stick
 
 
 ## 🌐 Socials:
